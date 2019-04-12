@@ -96,7 +96,7 @@ is only given ***three***.
 
 2.  An `Array` of paths to source files. We only have one file to test, so it's the
     only element in the array.
-    
+
 3.  A configuration object that adjusts how Mocha runs. This is often left out because
     Mocha's default behavior is fine.
 
